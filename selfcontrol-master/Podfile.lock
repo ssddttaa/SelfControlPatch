@@ -1,0 +1,13 @@
+PODS:
+  - FormatterKit/TimeIntervalFormatter (1.7.1)
+  - MASPreferences (1.1.2)
+
+DEPENDENCIES:
+  - FormatterKit/TimeIntervalFormatter (~> 1.7)
+  - MASPreferences (~> 1.1.2)
+
+SPEC CHECKSUMS:
+  FormatterKit: 03b5d827cf91fa0f1398c00ab0d558bcb69ee168
+  MASPreferences: 32d8a2c5ef1d60b63240f5676b011ff72e194cb1
+
+COCOAPODS: 0.37.2
